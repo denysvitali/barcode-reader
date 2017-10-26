@@ -1,0 +1,7 @@
+[package]
+name = "barcode-scanner"
+version = "0.1.0"
+authors = ["Denys Vitali <denys.vitali@coelis.ch>"]
+
+[dependencies]
+serial = "0.4.0"
